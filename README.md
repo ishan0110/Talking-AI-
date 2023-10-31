@@ -1,2 +1,2 @@
 # Talking-AI-
-In this AI assistant we can ask question and simply got the answer
+This AI assistant can simply answer your question.
